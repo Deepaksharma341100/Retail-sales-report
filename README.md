@@ -68,7 +68,7 @@ The dashboard includes:
 - Customers aged **30 to 50** generate the highest revenue.
 - **Beauty products** have the highest Average Order Value (AOV), indicating premium purchases.
 - **Electronics** category generates the highest total sales, while **Clothing** leads in total order count.
-- Sales peak during **May, October, and December**, reflecting seasonal and festival shopping trends.
+- Sales peak during **June & July**, reflecting seasonal and festival shopping trends.
 
 ---
 
